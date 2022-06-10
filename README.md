@@ -11,4 +11,6 @@ requests
 ![requests](https://user-images.githubusercontent.com/94475594/173094395-57ffdf00-f342-4b66-ba5d-f78d272363eb.png)
 users
 ![users](https://user-images.githubusercontent.com/94475594/173094402-22561168-46ec-4c11-bd1a-f11bb1b73aa7.png)
-**about 
+**admin 
+admin can manage apply all the CRUD operation to the donors donations blood-requests and also he can add same new users 
+this webiste is creating by using the MVC pattern 
