@@ -24,4 +24,10 @@ After admin Login, can see Unit of blood of each blood group available,  Donors 
     <li>Can see Unit of blood of each blood group available.</li>
     </ul>
  </p>
+ <p>
+  <h3>you can login by using</h3>
+  <ul>
+    <li>Username: admin </li>
+    <li>Password: admin </li>
+   </ul>
 
